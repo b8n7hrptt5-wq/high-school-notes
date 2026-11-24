@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"附件\" -path:\"Excalidraw\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:化学  ",
+      "color": {
+        "a": 1,
+        "rgb": 11414829
+      }
+    },
+    {
+      "query": "path:地理  ",
+      "color": {
+        "a": 1,
+        "rgb": 13095464
+      }
+    },
+    {
+      "query": "path:物理",
+      "color": {
+        "a": 1,
+        "rgb": 3561402
+      }
+    },
+    {
+      "query": "path:生物  ",
+      "color": {
+        "a": 1,
+        "rgb": 9981887
+      }
+    },
+    {
+      "query": "path:政治  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:历史  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:数学  ",
+      "color": {
+        "a": 1,
+        "rgb": 2593089
+      }
+    },
+    {
+      "query": "path:英语  ",
+      "color": {
+        "a": 1,
+        "rgb": 6500732
+      }
+    },
+    {
+      "query": "path:语文  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.959761068961612,
+  "lineSizeMultiplier": 0.949496093307666,
+  "collapse-forces": true,
+  "centerStrength": 0.45,
+  "repelStrength": 11,
+  "linkStrength": 1,
+  "linkDistance": 240,
+  "scale": 0.0633315788402732,
+  "close": true
+}

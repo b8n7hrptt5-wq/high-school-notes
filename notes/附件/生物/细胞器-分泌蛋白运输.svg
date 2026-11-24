@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420" role="img">
+<g font-family="PingFang SC, Heiti SC, Noto Sans CJK SC, sans-serif" fill="#111111" stroke="#111111" stroke-linejoin="round">
+<rect x="16" y="54" width="608" height="336" rx="26" fill="none" stroke-width="1.5"/>
+<text x="552.0" y="384.0" font-size="12" text-anchor="start" stroke="none" fill="#111111"><tspan>细胞膜</tspan></text>
+<circle cx="108.0" cy="264.0" r="50" fill="none" stroke-width="1.3"/>
+<circle cx="108.0" cy="264.0" r="44" fill="none" stroke-width="1.0"/>
+<path d="M152.3 279.7 L152.0 280.6 L151.7 281.4 L151.3 282.3 L150.9 283.1 L150.6 284.0 L150.2 284.8 L149.7 285.6 L149.3 286.4" fill="none" stroke="#ffffff" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="149.8" y1="277.6" x2="155.6" y2="279.5" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+<line x1="146.1" y1="286.0" x2="151.3" y2="289.0" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+<path d="M128.2 221.6 L129.1 222.0 L129.9 222.4 L130.7 222.8 L131.5 223.3 L132.3 223.8 L133.1 224.3 L133.9 224.8 L134.6 225.3" fill="none" stroke="#ffffff" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="125.9" y1="223.8" x2="128.3" y2="218.3" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+<line x1="133.9" y1="228.4" x2="137.4" y2="223.5" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+<circle cx="92.0" cy="242.0" r="10" fill="none" stroke-width="0.9"/>
+<path d="M98.0 284.0 L98.9 284.5 L99.7 285.0 L100.6 285.4 L101.5 285.6 L102.3 285.6 L103.2 285.4 L104.1 285.1 L104.9 284.7 L105.8 284.2 L106.7 283.7 L107.5 283.2 L108.4 282.8 L109.3 282.5 L110.1 282.4 L111.0 282.5 L111.9 282.7 L112.7 283.1 L113.6 283.6 L114.5 284.1 L115.3 284.7 L116.2 285.1 L117.1 285.4 L117.9 285.6 L118.8 285.6 L119.7 285.4 L120.5 285.0 L121.4 284.6 L122.3 284.1 L123.1 283.5 L124.0 283.1" fill="none" stroke="#111111" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M84.1 303.4 L84.8 303.6 L85.5 303.9 L86.2 304.1 L86.9 304.2 L87.6 304.2 L88.3 304.2 L88.9 304.1 L89.6 303.9 L90.2 303.6 L90.8 303.3 L91.4 302.9 L92.0 302.5 L92.7 302.0 L93.3 301.6 L93.9 301.2 L94.5 300.8 L95.1 300.6 L95.8 300.4 L96.4 300.2 L97.1 300.2 L97.8 300.3 L98.5 300.4 L99.2 300.6 L99.9 300.8 L100.6 301.1 L101.3 301.3 L102.0 301.6 L102.7 301.7 L103.4 301.9 L104.1 301.9" fill="none" stroke="#111111" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="38.0" y="352.0" font-size="12" text-anchor="start" stroke="none" fill="#111111"><tspan>细胞核</tspan></text>
+<line x1="74.0" y1="344.0" x2="86.0" y2="310.0" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+<path d="M170.0 110.5 L292.0 110.5 L297.4 111.0 L302.5 112.6 L307.3 115.1 L311.4 118.6 L314.9 122.7 L317.4 127.5 L319.0 132.6 L319.5 138.0 L319.0 143.4 L317.4 148.5 L314.9 153.3 L311.4 157.4 L307.3 160.9 L302.5 163.4 L297.4 165.0 L292.0 165.5 L170.0 165.5 L166.8 165.8 L163.7 166.8 L160.8 168.3 L158.3 170.3 L156.3 172.8 L154.8 175.7 L153.8 178.8 L153.5 182.0 L153.8 185.2 L154.8 188.3 L156.3 191.2 L158.3 193.7 L160.8 195.7 L163.7 197.2 L166.8 198.2 L170.0 198.5 L292.0 198.5 L292.0 209.5 L170.0 209.5 L164.6 209.0 L159.5 207.4 L154.7 204.9 L150.6 201.4 L147.1 197.3 L144.6 192.5 L143.0 187.4 L142.5 182.0 L143.0 176.6 L144.6 171.5 L147.1 166.7 L150.6 162.6 L154.7 159.1 L159.5 156.6 L164.6 155.0 L170.0 154.5 L292.0 154.5 L295.2 154.2 L298.3 153.2 L301.2 151.7 L303.7 149.7 L305.7 147.2 L307.2 144.3 L308.2 141.2 L308.5 138.0 L308.2 134.8 L307.2 131.7 L305.7 128.8 L303.7 126.3 L301.2 124.3 L298.3 122.8 L295.2 121.8 L292.0 121.5 L170.0 121.5 Z" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="186.0" cy="107.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="214.0" cy="107.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="242.0" cy="107.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="270.0" cy="107.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="186.0" cy="151.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="214.0" cy="151.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="242.0" cy="151.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="270.0" cy="151.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="186.0" cy="195.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="214.0" cy="195.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="242.0" cy="195.0" r="2.2" fill="#111111" stroke-width="0"/>
+<circle cx="270.0" cy="195.0" r="2.2" fill="#111111" stroke-width="0"/>
+<text x="146.0" y="88.0" font-size="12" text-anchor="start" stroke="none" fill="#111111"><tspan>粗面内质网</tspan></text>
+<path d="M409.0 141.4 L413.2 143.3 L417.4 144.8 L421.5 146.2 L425.6 147.4 L429.7 148.3 L433.8 149.1 L437.8 149.6 L441.9 149.9 L446.0 150.0 L450.1 149.9 L454.2 149.6 L458.2 149.1 L462.3 148.3 L466.4 147.4 L470.5 146.2 L474.6 144.8 L478.8 143.3 L483.0 141.4 L487.0 150.6 L482.6 152.5 L478.0 154.3 L473.5 155.8 L468.9 157.1 L464.3 158.1 L459.8 158.9 L455.2 159.5 L450.6 159.9 L446.0 160.0 L441.4 159.9 L436.8 159.5 L432.2 158.9 L427.7 158.1 L423.1 157.1 L418.5 155.8 L414.0 154.3 L409.4 152.5 L405.0 150.6 Z" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M403.8 163.3 L408.6 165.2 L413.3 166.8 L418.0 168.2 L422.7 169.3 L427.3 170.3 L432.0 171.0 L436.7 171.6 L441.3 171.9 L446.0 172.0 L450.7 171.9 L455.3 171.6 L460.0 171.0 L464.7 170.3 L469.3 169.3 L474.0 168.2 L478.7 166.8 L483.4 165.2 L488.2 163.3 L491.8 172.7 L486.8 174.6 L481.7 176.3 L476.6 177.8 L471.6 179.1 L466.4 180.1 L461.3 181.0 L456.2 181.5 L451.1 181.9 L446.0 182.0 L440.9 181.9 L435.8 181.5 L430.7 181.0 L425.6 180.1 L420.4 179.1 L415.4 177.8 L410.3 176.3 L405.2 174.6 L400.2 172.7 Z" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M398.6 185.3 L404.0 187.1 L409.3 188.7 L414.5 190.1 L419.8 191.3 L425.0 192.3 L430.3 193.0 L435.5 193.6 L440.8 193.9 L446.0 194.0 L451.2 193.9 L456.5 193.6 L461.7 193.0 L467.0 192.3 L472.2 191.3 L477.5 190.1 L482.7 188.7 L488.0 187.1 L493.4 185.3 L496.6 194.7 L491.1 196.6 L485.5 198.4 L479.9 199.9 L474.2 201.1 L468.6 202.2 L462.9 203.0 L457.3 203.5 L451.6 203.9 L446.0 204.0 L440.4 203.9 L434.7 203.5 L429.1 203.0 L423.4 202.2 L417.8 201.1 L412.1 199.9 L406.5 198.4 L400.9 196.6 L395.4 194.7 Z" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M393.5 207.2 L399.4 209.1 L405.3 210.7 L411.1 212.1 L416.9 213.3 L422.7 214.3 L428.6 215.0 L434.4 215.6 L440.2 215.9 L446.0 216.0 L451.8 215.9 L457.6 215.6 L463.4 215.0 L469.3 214.3 L475.1 213.3 L480.9 212.1 L486.7 210.7 L492.6 209.1 L498.5 207.2 L501.5 216.8 L495.4 218.7 L489.3 220.4 L483.1 221.9 L476.9 223.1 L470.7 224.2 L464.6 225.0 L458.4 225.5 L452.2 225.9 L446.0 226.0 L439.8 225.9 L433.6 225.5 L427.4 225.0 L421.3 224.2 L415.1 223.1 L408.9 221.9 L402.7 220.4 L396.6 218.7 L390.5 216.8 Z" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="446.0" y="126.0" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>高尔基体</tspan></text>
+<circle cx="338.0" cy="162.0" r="9" fill="none" stroke-width="1.0"/>
+<circle cx="352.0" cy="190.0" r="6.5" fill="none" stroke-width="1.0"/>
+<circle cx="536.0" cy="176.0" r="9" fill="none" stroke-width="1.0"/>
+<circle cx="392.0" cy="148.0" r="4.5" fill="none" stroke-width="1.0"/>
+<circle cx="500.0" cy="200.0" r="4.5" fill="none" stroke-width="1.0"/>
+<line x1="316.0" y1="150.0" x2="321.1" y2="153.0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+<path d="M328.0 157.0 L322.8 150.1 L319.4 155.8 Z" fill="#111111" stroke="none"/>
+<line x1="348.0" y1="172.0" x2="388.0" y2="173.7" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+<path d="M396.0 174.0 L388.1 170.4 L387.9 177.0 Z" fill="#111111" stroke="none"/>
+<line x1="500.0" y1="176.0" x2="516.0" y2="176.0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+<path d="M524.0 176.0 L516.0 172.7 L516.0 179.3 Z" fill="#111111" stroke="none"/>
+<line x1="536.0" y1="164.0" x2="536.0" y2="42.0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+<path d="M536.0 34.0 L532.7 42.0 L539.3 42.0 Z" fill="#111111" stroke="none"/>
+<circle cx="238.0" cy="80.0" r="9.5" fill="#ffffff" stroke-width="0.9"/>
+<text x="238.0" y="84.3" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>1</tspan></text>
+<line x1="238.0" y1="89.0" x2="236.0" y2="100.0" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+<circle cx="252.0" cy="226.0" r="9.5" fill="#ffffff" stroke-width="0.9"/>
+<text x="252.0" y="230.3" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>2</tspan></text>
+<line x1="252.0" y1="216.0" x2="252.0" y2="211.0" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+<circle cx="340.0" cy="134.0" r="9.5" fill="#ffffff" stroke-width="0.9"/>
+<text x="340.0" y="138.3" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>3</tspan></text>
+<circle cx="446.0" cy="236.0" r="9.5" fill="#ffffff" stroke-width="0.9"/>
+<text x="446.0" y="240.3" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>4</tspan></text>
+<circle cx="518.0" cy="204.0" r="9.5" fill="#ffffff" stroke-width="0.9"/>
+<text x="518.0" y="208.3" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>5</tspan></text>
+<circle cx="562.0" cy="118.0" r="9.5" fill="#ffffff" stroke-width="0.9"/>
+<text x="562.0" y="122.3" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>6</tspan></text>
+<text x="546.0" y="30.0" font-size="12" text-anchor="start" stroke="none" fill="#111111"><tspan>分泌到细胞外</tspan></text>
+<ellipse cx="300.0" cy="322.0" rx="54" ry="24" fill="none" stroke-width="1.2"/>
+<path d="M278.5 302.0 L278.5 336.0 L269.5 336.0 L269.5 302.0 Z" fill="none" stroke="#111111" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M296.5 302.0 L296.5 336.0 L287.5 336.0 L287.5 302.0 Z" fill="none" stroke="#111111" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M314.5 302.0 L314.5 336.0 L305.5 336.0 L305.5 302.0 Z" fill="none" stroke="#111111" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M332.5 302.0 L332.5 336.0 L323.5 336.0 L323.5 302.0 Z" fill="none" stroke="#111111" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="300.0" y="366.0" font-size="12" text-anchor="middle" stroke="none" fill="#111111"><tspan>线粒体</tspan></text>
+<line x1="300.0" y1="294.0" x2="300.0" y2="262.0" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 3" fill="none"/>
+<path d="M300.0 254.0 L296.7 262.0 L303.3 262.0 Z" fill="#111111" stroke="none"/>
+<text x="314.0" y="276.0" font-size="12" text-anchor="start" stroke="none" fill="#111111"><tspan>供能</tspan></text>
+</g></svg>
